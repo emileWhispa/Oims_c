@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="OIMS_RF" Class="OIMSDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=jc-pc;Initial Catalog=OIMS_RF;User ID=sa" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="OIMS_RFConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.usp_InsertSales" Method="usp_InsertSales">
+    <Parameter Name="QuoteDate" Parameter="quoteDate" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="Remarks" Parameter="remarks" Type="System.String" DbType="VarChar(200)" />
+    <Parameter Name="CustomerId" Parameter="customerId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Deposit" Parameter="deposit" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="SalesRef" Parameter="salesRef" Type="System.String" DbType="VarChar(14)" />
+    <Parameter Name="MakerId" Parameter="makerId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="DiscountCustomerId" Parameter="discountCustomerId" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

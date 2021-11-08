@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/.idea.Oims.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\.idea\.idea.Oims\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

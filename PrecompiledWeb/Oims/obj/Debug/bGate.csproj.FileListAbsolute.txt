@@ -1,0 +1,32 @@
+I:\BMAT\sources\bMobile\bMobile\bin\bMobile.dll
+I:\BMAT\sources\bMobile\bMobile\bin\bMobile.pdb
+I:\BMAT\sources\bMobile\bMobile\bin\bgBussinessLayer.dll
+I:\BMAT\sources\bMobile\bMobile\bin\bgDataLayer.dll
+I:\BMAT\sources\bMobile\bMobile\bin\bgShared.dll
+I:\BMAT\sources\bMobile\bMobile\bin\bgFlexCBS.dll
+I:\BMAT\sources\bMobile\bMobile\bin\bgBussinessLayer.pdb
+I:\BMAT\sources\bMobile\bMobile\bin\bgDataLayer.pdb
+I:\BMAT\sources\bMobile\bMobile\bin\bgShared.pdb
+I:\BMAT\sources\bMobile\bMobile\bin\bgFlexCBS.pdb
+I:\BMAT\sources\bMobile\bMobile\obj\Debug\bMobile.csprojResolveAssemblyReference.cache
+I:\BMAT\sources\bMobile\bMobile\obj\Debug\bMobile.dll
+I:\BMAT\sources\bMobile\bMobile\obj\Debug\bMobile.pdb
+I:\BMAT\sources\bMobile\bMobile\bin\BmatCrypto.dll
+I:\BMAT\sources\bMobile\bMobile\bin\EntityFramework.xml
+I:\BMAT\sources\bMobile\bMobile\bin\EntityFramework.SqlServer.xml
+F:\CODE REPOSITORY\Projects\Net\bMobile\bMobile\bMobile\bin\bMobile.dll
+F:\CODE REPOSITORY\Projects\Net\bMobile\bMobile\bMobile\bin\bMobile.pdb
+F:\CODE REPOSITORY\Projects\Net\bMobile\bMobile\bMobile\bin\bgBussinessLayer.dll
+F:\CODE REPOSITORY\Projects\Net\bMobile\bMobile\bMobile\bin\bgDataLayer.dll
+F:\CODE REPOSITORY\Projects\Net\bMobile\bMobile\bMobile\bin\bgShared.dll
+F:\CODE REPOSITORY\Projects\Net\bMobile\bMobile\bMobile\bin\bgFlexCBS.dll
+F:\CODE REPOSITORY\Projects\Net\bMobile\bMobile\bMobile\bin\BmatCrypto.dll
+F:\CODE REPOSITORY\Projects\Net\bMobile\bMobile\bMobile\bin\bgBussinessLayer.pdb
+F:\CODE REPOSITORY\Projects\Net\bMobile\bMobile\bMobile\bin\bgDataLayer.pdb
+F:\CODE REPOSITORY\Projects\Net\bMobile\bMobile\bMobile\bin\bgShared.pdb
+F:\CODE REPOSITORY\Projects\Net\bMobile\bMobile\bMobile\bin\EntityFramework.xml
+F:\CODE REPOSITORY\Projects\Net\bMobile\bMobile\bMobile\bin\EntityFramework.SqlServer.xml
+F:\CODE REPOSITORY\Projects\Net\bMobile\bMobile\bMobile\bin\bgFlexCBS.pdb
+F:\CODE REPOSITORY\Projects\Net\bMobile\bMobile\bMobile\obj\Debug\bMobile.csprojResolveAssemblyReference.cache
+F:\CODE REPOSITORY\Projects\Net\bMobile\bMobile\bMobile\obj\Debug\bMobile.dll
+F:\CODE REPOSITORY\Projects\Net\bMobile\bMobile\bMobile\obj\Debug\bMobile.pdb

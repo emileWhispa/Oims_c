@@ -1,0 +1,244 @@
+F:\CODE REPOSITORY\Projects\Net\bSal\bSal\BL\bin\Debug\bsal.BL.dll.config
+F:\CODE REPOSITORY\Projects\Net\bSal\bSal\BL\bin\Debug\bsal.BL.dll
+F:\CODE REPOSITORY\Projects\Net\bSal\bSal\BL\bin\Debug\bsal.BL.pdb
+F:\CODE REPOSITORY\Projects\Net\bSal\bSal\BL\bin\Debug\Bmat.Security.dll
+F:\CODE REPOSITORY\Projects\Net\bSal\bSal\BL\bin\Debug\bsal.DAL.dll
+F:\CODE REPOSITORY\Projects\Net\bSal\bSal\BL\bin\Debug\EntityFramework.dll
+F:\CODE REPOSITORY\Projects\Net\bSal\bSal\BL\bin\Debug\EntityFramework.SqlServer.dll
+F:\CODE REPOSITORY\Projects\Net\bSal\bSal\BL\bin\Debug\bsal.DAL.pdb
+F:\CODE REPOSITORY\Projects\Net\bSal\bSal\BL\bin\Debug\Bmat.Security.pdb
+F:\CODE REPOSITORY\Projects\Net\bSal\bSal\BL\bin\Debug\EntityFramework.xml
+F:\CODE REPOSITORY\Projects\Net\bSal\bSal\BL\bin\Debug\EntityFramework.SqlServer.xml
+F:\CODE REPOSITORY\Projects\Net\bSal\bSal\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+F:\CODE REPOSITORY\Projects\Net\bSal\bSal\BL\obj\Debug\bsal.BL.dll
+F:\CODE REPOSITORY\Projects\Net\bSal\bSal\BL\obj\Debug\bsal.BL.pdb
+F:\CODE REPOSITORY\Projects\Net\bSal\bSal\BL\bin\Debug\bsal.BCFiles.dll
+F:\CODE REPOSITORY\Projects\Net\bSal\bSal\BL\bin\Debug\bsal.BCFiles.pdb
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\bsal.BL.dll.config
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\bsal.BL.dll
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\bsal.BL.pdb
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\Bmat.CB.dll
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\Bmat.Reporting.dll
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\Bmat.Security.dll
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\Bodd.ACHFiles.dll
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\bsal.BCFiles.dll
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\bsal.DAL.dll
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\EntityFramework.dll
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\ExcelLibrary.dll
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\ClosedXML.dll
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\BouncyCastle.Crypto.dll
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\Ionic.Zip.Reduced.dll
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\bsal.BCFiles.pdb
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\Bmat.CB.pdb
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\bsal.DAL.pdb
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\Bmat.Reporting.pdb
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\Bmat.Security.pdb
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\Bodd.ACHFiles.pdb
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\EntityFramework.xml
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\ClosedXML.pdb
+E:\Projects\Net\bSal\bSal\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+E:\Projects\Net\bSal\bSal\BL\obj\Debug\bsal.BL.dll
+E:\Projects\Net\bSal\bSal\BL\obj\Debug\bsal.BL.pdb
+E:\Projects\Net\bSal\bSal\BL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Projects\Net\OIMS\OIMS\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\Ims.BL.dll.config
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\Ims.BL.dll
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\Ims.BL.pdb
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\Bmat.Reporting.dll
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\Bmat.Security.dll
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\EntityFramework.dll
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\Ims.DAL.dll
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\ExcelLibrary.dll
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\ClosedXML.dll
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\Ims.DAL.pdb
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\Bmat.Reporting.pdb
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\Bmat.Security.pdb
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\EntityFramework.xml
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Net\OIMS\OIMS\BL\bin\Debug\ClosedXML.pdb
+E:\Projects\Net\OIMS\OIMS\BL\obj\Debug\Ims.BL.dll
+E:\Projects\Net\OIMS\OIMS\BL\obj\Debug\Ims.BL.pdb
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\bin\Debug\Ims.BL.dll.config
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\bin\Debug\Ims.BL.dll
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\bin\Debug\Ims.BL.pdb
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\bin\Debug\Bmat.Reporting.dll
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\bin\Debug\EntityFramework.dll
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\bin\Debug\EntityFramework.SqlServer.dll
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\bin\Debug\Ims.DAL.dll
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\bin\Debug\ExcelLibrary.dll
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\bin\Debug\ClosedXML.dll
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\bin\Debug\DocumentFormat.OpenXml.dll
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\bin\Debug\Ims.DAL.pdb
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\bin\Debug\Bmat.Reporting.pdb
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\bin\Debug\EntityFramework.xml
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\bin\Debug\EntityFramework.SqlServer.xml
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\obj\Debug\Ims.BL.dll
+I:\BMAT\sources\OIMS\OIMS_22072015\OIMS\BL\obj\Debug\Ims.BL.pdb
+D:\projects\OIMS\OIMS\BL\bin\Debug\Ims.BL.dll.config
+D:\projects\OIMS\OIMS\BL\bin\Debug\Ims.BL.dll
+D:\projects\OIMS\OIMS\BL\bin\Debug\Ims.BL.pdb
+D:\projects\OIMS\OIMS\BL\bin\Debug\Bmat.Reporting.dll
+D:\projects\OIMS\OIMS\BL\bin\Debug\EntityFramework.dll
+D:\projects\OIMS\OIMS\BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\OIMS\OIMS\BL\bin\Debug\Ims.DAL.dll
+D:\projects\OIMS\OIMS\BL\bin\Debug\ExcelLibrary.dll
+D:\projects\OIMS\OIMS\BL\bin\Debug\ClosedXML.dll
+D:\projects\OIMS\OIMS\BL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\projects\OIMS\OIMS\BL\bin\Debug\Ims.DAL.pdb
+D:\projects\OIMS\OIMS\BL\bin\Debug\Bmat.Reporting.pdb
+D:\projects\OIMS\OIMS\BL\bin\Debug\EntityFramework.xml
+D:\projects\OIMS\OIMS\BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\OIMS\OIMS\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\projects\OIMS\OIMS\BL\obj\Debug\Ims.BL.dll
+D:\projects\OIMS\OIMS\BL\obj\Debug\Ims.BL.pdb
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\obj\Debug\Ims.BL.dll
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\obj\Debug\Ims.BL.pdb
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\Ims.BL.dll.config
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\Ims.BL.dll
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\Ims.BL.pdb
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\Bmat.Reporting.dll
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\EntityFramework.dll
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\Ims.DAL.dll
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\ExcelLibrary.dll
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\ClosedXML.dll
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\Ims.DAL.pdb
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\Bmat.Reporting.pdb
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\EntityFramework.xml
+D:\projects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\Ims.BL.dll.config
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\Ims.BL.dll
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\Ims.BL.pdb
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\Bmat.Reporting.dll
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\EntityFramework.dll
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\Ims.DAL.dll
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\ExcelLibrary.dll
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\ClosedXML.dll
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\Ims.DAL.pdb
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\Bmat.Reporting.pdb
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\EntityFramework.xml
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\obj\Debug\Ims.BL.dll
+C:\RealProjects\OIMS_RWANDAFOAM\OIMS\BL\obj\Debug\Ims.BL.pdb
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\bin\Debug\Ims.BL.dll.config
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\bin\Debug\Ims.BL.dll
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\bin\Debug\Ims.BL.pdb
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\bin\Debug\Bmat.Reporting.dll
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\bin\Debug\EntityFramework.dll
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\bin\Debug\Ims.DAL.dll
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\bin\Debug\ExcelLibrary.dll
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\bin\Debug\ClosedXML.dll
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\bin\Debug\Ims.DAL.pdb
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\bin\Debug\Bmat.Reporting.pdb
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\bin\Debug\EntityFramework.xml
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\obj\Debug\Ims.BL.dll
+C:\RealProjects\OIMS_RWANDAFOAM_E\OIMS\BL\obj\Debug\Ims.BL.pdb
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\Ims.BL.dll.config
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\Ims.BL.dll
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\Ims.BL.pdb
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\Bmat.Reporting.dll
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\Bmat.Security.dll
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\EntityFramework.dll
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\Ims.DAL.dll
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\ExcelLibrary.dll
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\ClosedXML.dll
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\Ims.DAL.pdb
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\Bmat.Reporting.pdb
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\Bmat.Security.pdb
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\EntityFramework.xml
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Net\OIMS_RF\OIMS\BL\bin\Debug\ClosedXML.pdb
+E:\Projects\Net\OIMS_RF\OIMS\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+E:\Projects\Net\OIMS_RF\OIMS\BL\obj\Debug\Ims.BL.dll
+E:\Projects\Net\OIMS_RF\OIMS\BL\obj\Debug\Ims.BL.pdb
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\bin\Debug\Ims.BL.dll.config
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\bin\Debug\Ims.BL.dll
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\bin\Debug\Ims.BL.pdb
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\bin\Debug\Bmat.Reporting.dll
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\bin\Debug\EntityFramework.dll
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\bin\Debug\EntityFramework.SqlServer.dll
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\bin\Debug\Ims.DAL.dll
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\bin\Debug\ExcelLibrary.dll
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\bin\Debug\ClosedXML.dll
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\bin\Debug\DocumentFormat.OpenXml.dll
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\bin\Debug\Ims.DAL.pdb
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\bin\Debug\Bmat.Reporting.pdb
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\bin\Debug\EntityFramework.xml
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\bin\Debug\EntityFramework.SqlServer.xml
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\obj\Debug\Ims.BL.dll
+I:\BMAT\sources\NEW OIMS\OIMS_02092015\OIMS\BL\obj\Debug\Ims.BL.pdb
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\BL\obj\Debug\Ims.BL.pdb
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\BL\bin\Debug\Ims.BL.dll.config
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\BL\bin\Debug\Ims.BL.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\BL\bin\Debug\Ims.BL.pdb
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\BL\bin\Debug\EntityFramework.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\BL\bin\Debug\EntityFramework.SqlServer.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\BL\bin\Debug\Ims.DAL.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\BL\bin\Debug\Ims.DAL.pdb
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\BL\bin\Debug\EntityFramework.xml
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\BL\bin\Debug\EntityFramework.SqlServer.xml
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\BL\obj\Debug\Ims.BL.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\BL\bin\Debug\Ims.BL.dll.config
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\BL\bin\Debug\Ims.BL.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\BL\bin\Debug\Ims.BL.pdb
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\BL\bin\Debug\EntityFramework.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\BL\bin\Debug\EntityFramework.SqlServer.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\BL\bin\Debug\Ims.DAL.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\BL\bin\Debug\EntityFramework.xml
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\BL\bin\Debug\EntityFramework.SqlServer.xml
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\BL\bin\Debug\Ims.DAL.pdb
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\BL\obj\Debug\Ims.BL.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\BL\obj\Debug\Ims.BL.pdb
+D:\projects\OIMS\JohnsonUpdates20092015\OIMS\Oims\BL\bin\Debug\Ims.BL.dll.config
+D:\projects\OIMS\JohnsonUpdates20092015\OIMS\Oims\BL\bin\Debug\Ims.BL.dll
+D:\projects\OIMS\JohnsonUpdates20092015\OIMS\Oims\BL\bin\Debug\Ims.BL.pdb
+D:\projects\OIMS\JohnsonUpdates20092015\OIMS\Oims\BL\bin\Debug\EntityFramework.dll
+D:\projects\OIMS\JohnsonUpdates20092015\OIMS\Oims\BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\OIMS\JohnsonUpdates20092015\OIMS\Oims\BL\bin\Debug\Ims.DAL.dll
+D:\projects\OIMS\JohnsonUpdates20092015\OIMS\Oims\BL\bin\Debug\EntityFramework.xml
+D:\projects\OIMS\JohnsonUpdates20092015\OIMS\Oims\BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\OIMS\JohnsonUpdates20092015\OIMS\Oims\BL\bin\Debug\Ims.DAL.pdb
+D:\projects\OIMS\JohnsonUpdates20092015\OIMS\Oims\BL\obj\Debug\Ims.BL.dll
+D:\projects\OIMS\JohnsonUpdates20092015\OIMS\Oims\BL\obj\Debug\Ims.BL.pdb
+D:\projects\OIMS\JohnsonUpdates20092015\OIMS\Oims\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\KeyProjects04092019\Oims_Ltest\OIMS\Oims\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\KeyProjects04092019\Oims_Ltest\OIMS\Oims\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\KeyProjects04092019\Oims_Ltest\OIMS\Oims\BL\obj\Debug\Ims.BL.dll
+C:\KeyProjects04092019\Oims_Ltest\OIMS\Oims\BL\obj\Debug\Ims.BL.pdb
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\bin\Debug\Ims.BL.dll.config
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\bin\Debug\Ims.BL.dll
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\bin\Debug\Ims.BL.pdb
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\bin\Debug\CrystalDecisions.Shared.dll
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\bin\Debug\EntityFramework.dll
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\bin\Debug\EntityFramework.SqlServer.dll
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\bin\Debug\Ims.DAL.dll
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\bin\Debug\EntityFramework.xml
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\bin\Debug\EntityFramework.SqlServer.xml
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\bin\Debug\Ims.DAL.pdb
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\bin\Debug\Ims.DAL.dll.config
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\obj\Debug\BL.csproj.CopyComplete
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\obj\Debug\Ims.BL.dll
+E:\source_codes\microsoft\Oims_Ltest_93f0f509-8884-4ea3-8974-f82902b4dd66\Oims_Ltest\OIMS\Oims\BL\obj\Debug\Ims.BL.pdb

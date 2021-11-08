@@ -1,0 +1,102 @@
+D:\BT\bGate\bGate\bgShared\bin\Debug\bgShared.dll
+D:\BT\bGate\bGate\bgShared\bin\Debug\bgShared.pdb
+D:\BT\bGate\bGate\bgShared\obj\Debug\bgShared.dll
+D:\BT\bGate\bGate\bgShared\obj\Debug\bgShared.pdb
+I:\BMAT\sources\bGate\bgShared\bin\Debug\bgShared.dll
+I:\BMAT\sources\bGate\bgShared\bin\Debug\bgShared.pdb
+I:\BMAT\sources\bGate\bgShared\obj\Debug\bgShared.dll
+I:\BMAT\sources\bGate\bgShared\obj\Debug\bgShared.pdb
+F:\CODE REPOSITORY\Projects\Net\bGate\bGate\bgShared\bin\Debug\bgShared.dll
+F:\CODE REPOSITORY\Projects\Net\bGate\bGate\bgShared\bin\Debug\bgShared.pdb
+F:\CODE REPOSITORY\Projects\Net\bGate\bGate\bgShared\obj\Debug\bgShared.dll
+F:\CODE REPOSITORY\Projects\Net\bGate\bGate\bgShared\obj\Debug\bgShared.pdb
+F:\CODE REPOSITORY\Projects\Net\bGate\bGate\bgShared\obj\Debug\bgShared.csprojResolveAssemblyReference.cache
+I:\BMAT\sources\BGATE BURUNDI\bGate_07042015\bgShared\bin\Debug\bgShared.dll
+I:\BMAT\sources\BGATE BURUNDI\bGate_07042015\bgShared\bin\Debug\bgShared.pdb
+I:\BMAT\sources\BGATE BURUNDI\bGate_07042015\bgShared\obj\Debug\bgShared.dll
+I:\BMAT\sources\BGATE BURUNDI\bGate_07042015\bgShared\obj\Debug\bgShared.pdb
+I:\BMAT\sources\BGATE BURUNDI\bGate_07042015\bgShared\obj\Debug\bgShared.csprojResolveAssemblyReference.cache
+I:\BMAT\sources\BGATE BURUNDI\bGate_13042015\bgShared\bin\Debug\bgShared.dll
+I:\BMAT\sources\BGATE BURUNDI\bGate_13042015\bgShared\bin\Debug\bgShared.pdb
+I:\BMAT\sources\BGATE BURUNDI\bGate_13042015\bgShared\obj\Debug\bgShared.dll
+I:\BMAT\sources\BGATE BURUNDI\bGate_13042015\bgShared\obj\Debug\bgShared.pdb
+I:\BMAT\sources\BGATE BURUNDI\bGate_13042015\bgShared\bin\Debug\bgShared.dll.config
+I:\BMAT\sources\BGATE BURUNDI\bGate_13042015\bgShared\bin\Debug\EntityFramework.dll
+I:\BMAT\sources\BGATE BURUNDI\bGate_13042015\bgShared\bin\Debug\EntityFramework.SqlServer.dll
+I:\BMAT\sources\BGATE BURUNDI\bGate_13042015\bgShared\bin\Debug\EntityFramework.xml
+I:\BMAT\sources\BGATE BURUNDI\bGate_13042015\bgShared\bin\Debug\EntityFramework.SqlServer.xml
+C:\BMAT\code\bGate_13042015\bgShared\bin\Debug\bgShared.dll.config
+C:\BMAT\code\bGate_13042015\bgShared\bin\Debug\bgShared.dll
+C:\BMAT\code\bGate_13042015\bgShared\bin\Debug\bgShared.pdb
+C:\BMAT\code\bGate_13042015\bgShared\bin\Debug\EntityFramework.dll
+C:\BMAT\code\bGate_13042015\bgShared\bin\Debug\EntityFramework.SqlServer.dll
+C:\BMAT\code\bGate_13042015\bgShared\bin\Debug\EntityFramework.xml
+C:\BMAT\code\bGate_13042015\bgShared\bin\Debug\EntityFramework.SqlServer.xml
+C:\BMAT\code\bGate_13042015\bgShared\obj\Debug\ResolveAssemblyReference.cache
+C:\BMAT\code\bGate_13042015\bgShared\obj\Debug\bgShared.dll
+C:\BMAT\code\bGate_13042015\bgShared\obj\Debug\bgShared.pdb
+I:\BMAT\sources\BGATE BURUNDI\backup\Installer\bGate_13042015\bgShared\bin\Debug\bgShared.dll.config
+I:\BMAT\sources\BGATE BURUNDI\backup\Installer\bGate_13042015\bgShared\bin\Debug\bgShared.dll
+I:\BMAT\sources\BGATE BURUNDI\backup\Installer\bGate_13042015\bgShared\bin\Debug\bgShared.pdb
+I:\BMAT\sources\BGATE BURUNDI\backup\Installer\bGate_13042015\bgShared\bin\Debug\EntityFramework.dll
+I:\BMAT\sources\BGATE BURUNDI\backup\Installer\bGate_13042015\bgShared\bin\Debug\EntityFramework.SqlServer.dll
+I:\BMAT\sources\BGATE BURUNDI\backup\Installer\bGate_13042015\bgShared\bin\Debug\EntityFramework.xml
+I:\BMAT\sources\BGATE BURUNDI\backup\Installer\bGate_13042015\bgShared\bin\Debug\EntityFramework.SqlServer.xml
+I:\BMAT\sources\BGATE BURUNDI\backup\Installer\bGate_13042015\bgShared\obj\Debug\bgShared.csprojResolveAssemblyReference.cache
+I:\BMAT\sources\BGATE BURUNDI\backup\Installer\bGate_13042015\bgShared\obj\Debug\bgShared.dll
+I:\BMAT\sources\BGATE BURUNDI\backup\Installer\bGate_13042015\bgShared\obj\Debug\bgShared.pdb
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile\bgShared\bin\Debug\bgShared.dll.config
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile\bgShared\bin\Debug\bgShared.dll
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile\bgShared\bin\Debug\bgShared.pdb
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile\bgShared\bin\Debug\EntityFramework.dll
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile\bgShared\bin\Debug\EntityFramework.SqlServer.dll
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile\bgShared\bin\Debug\EntityFramework.xml
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile\bgShared\bin\Debug\EntityFramework.SqlServer.xml
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile\bgShared\obj\Debug\bgShared.dll
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile\bgShared\obj\Debug\bgShared.pdb
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\bmobile\bgShared\bin\Debug\bgShared.dll.config
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\bmobile\bgShared\bin\Debug\bgShared.dll
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\bmobile\bgShared\bin\Debug\bgShared.pdb
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\bmobile\bgShared\bin\Debug\EntityFramework.dll
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\bmobile\bgShared\bin\Debug\EntityFramework.SqlServer.dll
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\bmobile\bgShared\bin\Debug\EntityFramework.xml
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\bmobile\bgShared\bin\Debug\EntityFramework.SqlServer.xml
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\bmobile\bgShared\obj\Debug\bgShared.dll
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\bmobile\bgShared\obj\Debug\bgShared.pdb
+C:\BMAT\mobile\Latest\bmobile\bmobile\bgShared\bin\Debug\bgShared.dll.config
+C:\BMAT\mobile\Latest\bmobile\bmobile\bgShared\bin\Debug\bgShared.dll
+C:\BMAT\mobile\Latest\bmobile\bmobile\bgShared\bin\Debug\bgShared.pdb
+C:\BMAT\mobile\Latest\bmobile\bmobile\bgShared\bin\Debug\EntityFramework.dll
+C:\BMAT\mobile\Latest\bmobile\bmobile\bgShared\bin\Debug\EntityFramework.SqlServer.dll
+C:\BMAT\mobile\Latest\bmobile\bmobile\bgShared\bin\Debug\EntityFramework.xml
+C:\BMAT\mobile\Latest\bmobile\bmobile\bgShared\bin\Debug\EntityFramework.SqlServer.xml
+C:\BMAT\mobile\Latest\bmobile\bmobile\bgShared\obj\Debug\ResolveAssemblyReference.cache
+C:\BMAT\mobile\Latest\bmobile\bmobile\bgShared\obj\Debug\bgShared.dll
+C:\BMAT\mobile\Latest\bmobile\bmobile\bgShared\obj\Debug\bgShared.pdb
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\14082015\bmobile\bgShared\bin\Debug\bgShared.dll.config
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\14082015\bmobile\bgShared\bin\Debug\bgShared.dll
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\14082015\bmobile\bgShared\bin\Debug\bgShared.pdb
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\14082015\bmobile\bgShared\bin\Debug\EntityFramework.dll
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\14082015\bmobile\bgShared\bin\Debug\EntityFramework.SqlServer.dll
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\14082015\bmobile\bgShared\bin\Debug\EntityFramework.xml
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\14082015\bmobile\bgShared\bin\Debug\EntityFramework.SqlServer.xml
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\14082015\bmobile\bgShared\obj\Debug\bgShared.dll
+I:\BMAT\sources\MOBILE\2015Mobilebanking\bmobile04082015\14082015\bmobile\bgShared\obj\Debug\bgShared.pdb
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\bgShared\bin\Debug\bgShared.dll.config
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\bgShared\bin\Debug\bgShared.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\bgShared\bin\Debug\bgShared.pdb
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\bgShared\bin\Debug\EntityFramework.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\bgShared\bin\Debug\EntityFramework.SqlServer.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\bgShared\bin\Debug\EntityFramework.xml
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\bgShared\bin\Debug\EntityFramework.SqlServer.xml
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\bgShared\obj\Debug\bgShared.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\bmobile\bgShared\obj\Debug\bgShared.pdb
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\bgShared\bin\Debug\bgShared.dll.config
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\bgShared\bin\Debug\bgShared.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\bgShared\bin\Debug\bgShared.pdb
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\bgShared\bin\Debug\EntityFramework.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\bgShared\bin\Debug\EntityFramework.SqlServer.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\bgShared\bin\Debug\EntityFramework.xml
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\bgShared\bin\Debug\EntityFramework.SqlServer.xml
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\bgShared\obj\Debug\bgShared.dll
+I:\BMAT\sources\NEW OIMS\OIMS_ASP\Oims\bgShared\obj\Debug\bgShared.pdb

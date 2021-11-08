@@ -1,0 +1,68 @@
+﻿<%@ master language="C#" autoeventwireup="true" inherits="orion.ims.Site, App_Web_o2igng3j" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/bmobile.css" rel="stylesheet" />
+    <script src="js/jquery-1.11.2.min.js" type="text/javascript"></script>   
+    <script src="Scripts/jquery.msgBox.js" type="text/javascript"></script>
+        <script src="Scripts/jquery-2.0.3.js" type="text/javascript"></script>
+    <script src="Scripts/jquery-ui-1.8.24.js" type="text/javascript"></script>
+     <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+   
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        #clienttitle0
+        {
+            width: 262px;
+        }
+    </style>
+</head>
+<body>
+ 
+    <div id="pgmain">
+        <form id="form1" runat="server" autocomplete="off">
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
+        <asp:Timer ID="Timer1" runat="server" ontick="Timer1_Tick" Interval="300000">
+                    </asp:Timer>
+        <div id="pgheader" class="maingradient">
+            <div id="logo">
+                <img src="images/RFLogo.png" id="imglogo" />
+                <div id="logotitle">
+                    Orion Inventory System</div>
+                <div id="clienttitle">
+                    <asp:Label ID="lblClientName" runat="server" Text="CLIENT NAME"></asp:Label></div>
+            </div>
+            <div id="menusec" class="hideSkiplink">
+               
+                <div id='cssmenu' runat="server">
+                   
+                </div>
+            </div>
+            <div id="userdets" class="logout">
+                Logged in:<asp:Label ID="lblCurrentUser" runat="server" ForeColor="#0000CC"></asp:Label>
+&nbsp;<span style="color:Aqua;"></span>| <a href="Login.aspx" id="logout">Log Out</a></div>
+            <div id="menu">
+            </div>
+        </div>
+        <div id="pgbody">
+            <div style="padding: 5px 20px;">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                    <p>
+                        <br />
+                    </p>
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <div id="pgfooter" class="maingradient">
+            <span>Copyright &copy; Orion Systems & Design.
+                <%=DateTime.Now.Year%></span>
+        </div>
+        </form>
+    </div>
+</body>
+</html>
